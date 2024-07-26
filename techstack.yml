@@ -1,0 +1,20 @@
+repo_name: vladdou/USA-Constitution
+report_id: 9989fd74b7b625a387178673ad60c380
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-26T05:31:41+00:00'
+requested_by: JesseKPhillips
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/vladdou/USA-Constitution
+  detection_source: Repo Metadata
